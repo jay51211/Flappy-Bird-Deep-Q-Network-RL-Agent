@@ -1,2 +1,3 @@
 # Data collection completed
 # Data cleaning completed
+# EDA completed
