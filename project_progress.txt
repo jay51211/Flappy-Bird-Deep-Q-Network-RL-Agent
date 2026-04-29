@@ -2,3 +2,4 @@
 # Data cleaning completed
 # EDA completed
 # Data visualization completed
+# Outlier handling completed
