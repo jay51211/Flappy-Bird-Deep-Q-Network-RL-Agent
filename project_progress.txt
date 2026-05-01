@@ -7,3 +7,4 @@
 # Feature selection completed
 # Feature scaling completed
 # Train-test split completed
+# Baseline model completed
