@@ -6,3 +6,4 @@
 # Feature engineering completed
 # Feature selection completed
 # Feature scaling completed
+# Train-test split completed
