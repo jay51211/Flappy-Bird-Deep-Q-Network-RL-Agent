@@ -5,3 +5,4 @@
 # Outlier handling completed
 # Feature engineering completed
 # Feature selection completed
+# Feature scaling completed
