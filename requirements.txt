@@ -1,4 +1,4 @@
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 gymnasium
 flappy-bird-gymnasium
 pygame==2.5.2
