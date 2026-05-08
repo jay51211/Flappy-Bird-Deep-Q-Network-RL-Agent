@@ -1,4 +1,5 @@
 torch
 gymnasium
 flappy-bird-gymnasium
+pygame==2.5.2
 pyyaml
