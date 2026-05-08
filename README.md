@@ -17,12 +17,6 @@ An AI agent trained using **Double DQN** to play Flappy Bird — starting with z
 
 ---
 
-## 🎮 Live Demo
-
-> 🔗 **Live Demo:** *(paste your link here after deployment)*
-
----
-
 ## 📈 Training Progress
 
 The agent starts knowing absolutely nothing — it dies immediately. After thousands of episodes of trial and error, it learns to navigate pipes consistently.
