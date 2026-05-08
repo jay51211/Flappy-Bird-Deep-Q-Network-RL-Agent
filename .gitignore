@@ -1,0 +1,26 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Keep runs/ folder but ignore large files if any
+# runs/*.pt  ← commented out — we WANT to push the trained model
+# runs/*.log ← commented out — we WANT to push the training log
+
+# OS
+.DS_Store
+Thumbs.db
