@@ -309,8 +309,7 @@ pip install torch gymnasium flappy-bird-gymnasium pyyaml
 
 <div align="center">
 
-**Jay Sandip Kumbhar**
-*B.Sc. Computer Science | CGPA 9.00 | ML Engineer*
+**Jay Kumbhar**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jay51211-181717?style=for-the-badge&logo=github)](https://github.com/jay51211)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaykumbhar5121-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaykumbhar5121)
