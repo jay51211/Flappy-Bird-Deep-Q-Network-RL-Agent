@@ -53,7 +53,7 @@ The agent starts knowing absolutely nothing — it dies immediately. After thous
 
 ## 🔍 Overview
 
-This project implements a **Deep Q-Network (DQN)** agent for Flappy Bird using the `flappy-bird-gymnasium` environment. Unlike pixel-based approaches, this agent uses the game's **12 state features** (bird position, velocity, pipe distances) directly — making it faster to train while still demonstrating core RL principles.
+This project implements a **Deep Q-Network (DQN)** agent for Flappy Bird using the `flappy-bird-gymnasium` environment. Unlike pixel-based approaches, this agent uses the game's **12 state features** (bird position, velocity, pipe distances) directly making it faster to train while still demonstrating core RL principles.
 
 The full system includes:
 - A **DQN neural network** for Q-value approximation
